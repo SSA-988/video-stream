@@ -74,7 +74,7 @@ const HomeScreen = () => {
                     borderTopLeftRadius: 10,
                   }}
                 >
-                  <View style={{ flex: 1, backgroundColor: "yellow" }}>
+                  <View style={{ flex: 1, backgroundColor: "black" }}>
                     <WebView
                       javaScriptEnabled={true}
                       style={{
